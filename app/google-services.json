@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456121896950",
+    "firebase_url": "https://wallpaperapp-5ab1e.firebaseio.com",
+    "project_id": "wallpaperapp-5ab1e",
+    "storage_bucket": "wallpaperapp-5ab1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456121896950:android:48e12e0382626404",
+        "android_client_info": {
+          "package_name": "com.errorfoundteam.fbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456121896950-b1mmodncpi08acs4kcq4eqrqoe33h6v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.errorfoundteam.fbtest",
+            "certificate_hash": "c6de7360e2a0335ad3c39c876340966ebe1eb6d0"
+          }
+        },
+        {
+          "client_id": "456121896950-ens2shq8sgr214unofsnp07gib8a5ar3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsC40JVLOrD0ZFO2TGJiJhJLwS4s5cTs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456121896950-ens2shq8sgr214unofsnp07gib8a5ar3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
